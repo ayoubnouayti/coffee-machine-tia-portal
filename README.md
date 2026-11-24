@@ -37,3 +37,7 @@ git clone https://github.com/ayoubnouayti/coffee-machine-tia-portal.git
 ## Informations à compléter
 
 Pour faciliter la réutilisation du projet, vous pouvez ajouter ici la version de TIA Portal, la référence de l'automate et les principales fonctions de la machine.
+
+## Auteur
+
+**AYOUB NOUAYTI**
